@@ -1,3 +1,7 @@
 title: Mariana Strix
-description: Junior Python Developer
+description: Junior Python Developer.
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+
+
