@@ -29,4 +29,4 @@ title: Mariana Strix
 
 ### Разработанные сервисы
 - [Блог (написанный на Djando)](https://blog-django.marianastrix.com/)
-- [Блог 3 (написаный на Django REST framework и Vue.js)](https://blog.marianastrix/)
+- [Блог 3 (написаный на Django REST framework и Vue.js)](https://blog.marianastrix.com/)
