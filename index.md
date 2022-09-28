@@ -6,9 +6,9 @@ title: Mariana Strix
 
 ### Languages
 - Python
-- JavaScript
 
 ### Frameworks
+- Aiohttp
 - Django
 - Django REST framework
 - Flask
@@ -17,16 +17,15 @@ title: Mariana Strix
 ### Databases
 - PostgreSQL
 - Redis
+- MongoDB
 
 ### Utilities
 - Docker
 - Docker Compose
+- Kafka
 - Git
+- Swagger
 
 ### OS
 - Ubuntu
 - MacOS
-
-### Разработанные сервисы
-- [Блог (написанный на Djando)](https://blog-django.marianastrix.com/)
-- [Блог 3 (написаный на Django REST framework и Vue.js)](https://blog.marianastrix.com/)
