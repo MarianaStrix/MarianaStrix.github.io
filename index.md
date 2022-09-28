@@ -8,7 +8,7 @@ title: Mariana Strix
 - Python
 
 ### Frameworks
-- Aiohttp
+- aiohttp
 - Django
 - Django REST framework
 - Flask
@@ -28,4 +28,4 @@ title: Mariana Strix
 
 ### OS
 - Ubuntu
-- MacOS
+- macOS
