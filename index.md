@@ -12,17 +12,18 @@ title: Mariana Strix
 - Django
 - Django REST framework
 - Flask
-- Vue.js (Vuex)
 
 ### Databases
 - PostgreSQL
 - Redis
 - MongoDB
 
+### Message broker
+- Kafka
+
 ### Utilities
 - Docker
 - Docker Compose
-- Kafka
 - Git
 - Swagger
 
